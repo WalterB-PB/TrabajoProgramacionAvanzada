@@ -57,7 +57,7 @@ st.write("🍊 Naranja:", distancia_naranja)
 # Buscamos la distancia menor
 distancias = {
     "🍎 Manzana": distancia_manzana,
-    "🍐 pera:", distancia_pera,
+    "🍐 pera:": distancia_pera,
     "🍌 Banano": distancia_banano,
     "🍊 Naranja": distancia_naranja
 }
